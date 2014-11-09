@@ -12,6 +12,10 @@
         "target_path": "packages/apps/SamsungServiceMode"
     },
     {
+        "repository": "android_hardware_samsung_slsi_exynos4",
+        "target_path": "hardware/samsung_slsi/exynos4"
+    },
+    {
         "repository": "android_hardware_samsung",
         "target_path": "hardware/samsung"
     }
